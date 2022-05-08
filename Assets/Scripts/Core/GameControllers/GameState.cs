@@ -1,4 +1,4 @@
-namespace Maps
+namespace Core
 {
     public enum GameState
     {

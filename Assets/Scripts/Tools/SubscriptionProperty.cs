@@ -1,6 +1,6 @@
 using System;
 
-namespace Maps
+namespace Core
 {
     public class SubscriptionProperty<T>
     {
